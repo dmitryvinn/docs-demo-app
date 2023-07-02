@@ -1,7 +1,7 @@
 {
-  "name": "nextra-docs-template",
+  "name": "docs-demo-app",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "Demo Docs App",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
